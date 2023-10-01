@@ -12,12 +12,12 @@ Let us define two spatial coordinates, viz., a velocity potential function $\var
 
 <p align="center">
     <img align="center" src="earth_dam.png" alt="drawing" width="1000"/>
-  </p>
+</p>
 <p align="center"> Figure 1: (a) realistic geometric shape of an earth dam in $z$-plane, (b) modified geometric shape of an earth dam in $z$-plane, (c) boundary conditions of flownets in $w$-plane </p>
 
 *Example*
 <p align="justify"> 
-Consider an earth dam with a height equal to $20\ \mathrm{m}$, a top width equal to $12\ \mathrm{m}$, a bottom width equal to $32\ \mathrm{m}$, and the filter width equal to $6\ \mathrm{m}$ as shown in Figure 2. The height of the water level is $19\ \mathrm{m}$, and the coefficient of permeability of the isotropic soil is $3.5\times 10^{-8}\ \mathrm{m/s}$. 
+Consider an earth dam with a height equal to $20\ \mathrm{m}$, a top width equal to $12\ \mathrm{m}$, a bottom width equal to $32\ \mathrm{m}$, and the filter width equal to $6\ \mathrm{m}$ as shown in Figure 2. The height of the water level is $19\ \mathrm{m}$, and the coefficient of permeability of the homogenous isotropic soil is $3.5\times 10^{-8}\ \mathrm{m/s}$. 
 </p>
 
 ```Matlab
@@ -151,3 +151,7 @@ t = ['z = f(w) = -0.25w^2/(k^2x_0)'];
 text(-10.5,24,t,'HorizontalAlignment','left','Color','k','fontsize',20)
 %==================================================================================================
 ```
+<p align="center">
+    <img align="center" src="earth_dam_flownets.png" alt="drawing" width="500"/>
+</p>
+<p align="center"> Figure 2: flownets for a homogeneous isotropic earth dam </p>
