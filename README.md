@@ -152,6 +152,10 @@ text(-10.5,24,t,'HorizontalAlignment','left','Color','k','fontsize',20)
 %==================================================================================================
 ```
 <p align="center">
-    <img align="center" src="earth_dam_flownets.png" alt="drawing" width="500"/>
+    <img align="center" src="earth_dam_flownets.png" alt="drawing" width="1000"/>
 </p>
 <p align="center"> Figure 2: flownets for a homogeneous isotropic earth dam </p>
+
+## Flat-bottomed concrete gravity dam
+
+
