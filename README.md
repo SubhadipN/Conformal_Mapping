@@ -158,4 +158,11 @@ text(-10.5,24,t,'HorizontalAlignment','left','Color','k','fontsize',20)
 
 ## Flat-bottomed concrete gravity dam
 
+<p align="justify"> 
+In this section, the realistic boundary conditions for flownets underneath a flat-bottomed concrete gravity dam (see Figure 3(a)) are identified in the physical domain or $z$-plane, and then accordingly considered in the $w$-plane as shown in Figure 3(b). Thereafter the analytical expressions for the flownets will be solved in the $w$-plane, and then a transformation scheme will be used to map the solutions onto the physical plane. For this problem, the complex velocity $W$, can be expressed as
+</p>
 
+<p align="center">
+    <img align="center" src="flat_bottomed_concrete_dam.png" alt="drawing" width="800"/>
+</p>
+<p align="center"> Figure 3: (a) geometry of a flat-bottomed concrete gravity dam in $z$-plane, (b) boundary conditions of flownets in $w$-plane </p>
