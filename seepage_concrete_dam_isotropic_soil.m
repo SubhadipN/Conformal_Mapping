@@ -1,6 +1,6 @@
 %=========================================================================
 % MATLAB script file to draw the flownets of a flat-bottomed concrete 
-% dam without any sheetpile using the conformal mapping technique
+% dam without any sheet pile using the conformal mapping technique
 % For further details, go to the link below:
 % https://github.com/SubhadipN/Conformal_Mapping#seepage-analysis
 %=========================================================================
