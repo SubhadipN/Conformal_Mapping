@@ -1,7 +1,7 @@
 # List of computer scripts available in this repository
 1. <a href="https://github.com/SubhadipN/Conformal_Mapping/blob/main/seepage_earth_dams_isotropic_soil.m">*seepage_earth_dams_isotropic_soil.m*</a>
 2. <a href="https://github.com/SubhadipN/Conformal_Mapping/blob/main/seepage_concrete_dam_isotropic_soil.m">*seepage_concrete_dam_isotropic_soil.m*</a>
-3. <a href="https://github.com/SubhadipN/Conformal_Mapping/blob/main/seepage_concrete_dam_with_inclined_sheetpile_isotropic_soil.m">*seepage_concrete_dam_with_inclined_sheetpile_isotropic_soil.m*</a>    
+3. <a href="https://github.com/SubhadipN/Conformal_Mapping/blob/main/seepage_concrete_dam_with_sheetpile_isotropic_soil.m">*seepage_concrete_dam_with_sheetpile_isotropic_soil.m*</a>    
 
 # Seepage Analysis
 
