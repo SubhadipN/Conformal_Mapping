@@ -58,8 +58,8 @@ for i = 1:9
         xx = x1*diag(eye(length(yy)))';
     end
     figure (1);
-##    frame_h = get(handle(gcf),'JavaFrame');
-##    set(frame_h,'Maximized',1); 
+    frame_h = get(handle(gcf),'JavaFrame');
+    set(frame_h,'Maximized',1); 
     xlim([-xf*b1 0.8*xf*b1]); 
     ylim([-yf*a1 1.1*a1]); 
     set(gca,'FontSize',16); hold on; box on;
@@ -131,9 +131,9 @@ xlabel('Width (m)','fontsize',16);
 ylabel('Height (m)','fontsize',16)
 title('Flownets underneath a concrete dam with a sheetpile (z-plane)',...
     'fontsize',14)
-##legend([leg1 leg2 leg3 leg4 leg5],{'Dam outline','Sheet pile',...
-##    'Water level','Equipotential lines','Flow lines'},'Location',...
-##    'northeast','fontsize',14);
+legend([leg1 leg2 leg3 leg4 leg5],{'Dam outline','Sheet pile',...
+    'Water level','Equipotential lines','Flow lines'},'Location',...
+    'northeast','fontsize',14);
 for ii = 1:2:fl
     t1 = ['\phi_{',num2str(ii),'} = ',num2str(x(ii))]; 
     t2 = ['\psi_{',num2str(ii),'} = ',num2str(y(ii))];
