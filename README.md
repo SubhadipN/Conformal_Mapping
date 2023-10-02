@@ -63,7 +63,7 @@ Most often, a hydraulic structure, e.g., concrete gravity dams founded on permea
 </p>
 
 <p align="center">
-    <img align="center" src="flat_bottomed_concrete_dam_vertical_sheet_pile.png" alt="drawing" width="600"/>
+    <img align="center" src="flat_bottomed_concrete_dam_inclined_sheet_pile.png" alt="drawing" width="600"/>
 </p>
 <p align="center"> Figure 5: (a) geometry of a flat-bottomed concrete gravity dam with an inclined sheet pile in $z$-plane, (b) an auxiliary complex variable space $t$-plane, (c) boundary conditions of flownets in $w$-plane </p>
 
