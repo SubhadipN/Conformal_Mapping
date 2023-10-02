@@ -1,6 +1,8 @@
 %=========================================================================
 % MATLAB script file to draw the flownets of a homogeneous isotropic earth   
 % embankment dam using the conformal mapping technique
+% For further details, click on the link below:
+% https://github.com/SubhadipN/Conformal_Mapping#seepage-analysis
 %=========================================================================
 % Prepared by SUBHADIP NASKAR, RESEARCH SCHOLAR, IIT GUWAHATI
 %=========================================================================
