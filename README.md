@@ -32,6 +32,16 @@ In this section, the realistic boundary conditions for flownets underneath a fla
 </p>
 
 <p align="center">
-    <img align="center" src="flat_bottomed_concrete_dam.png" alt="drawing" width="800"/>
+    <img align="center" src="flat_bottomed_concrete_dam.png" alt="drawing" width="600"/>
 </p>
 <p align="center"> Figure 3: (a) geometry of a flat-bottomed concrete gravity dam in $z$-plane, (b) boundary conditions of flownets in $w$-plane </p>
+
+*Example*
+<p align="justify"> 
+Consider a flat-bottomed concrete gravity dam with geometrical parameters as $a_1=20\ \mathrm{m}$, $a_2=18\ \mathrm{m}$, $a_3=4.5\ \mathrm{m}$, $2b_1=18\ \mathrm{m}$ and $b_2=1.5\ \mathrm{m}$, as shown in Figure 3(a). The heights of the water level are $h_1=15\ \mathrm{m}$ and $h_2=2\ \mathrm{m}$, respectively. The coefficient of permeability of the homogenous isotropic soil is $3.5\times 10^{-8}\ \mathrm{m/s}$. A simple <a href="https://github.com/SubhadipN/Conformal_Mapping/blob/main/seepage_concrete_dam_isotropic_soil.m">MATLAB script</a> to generate the flownets for the flat-bottomed concrete gravity dam is provided in this repository, and the output of the code is shown in Figure 4.
+</p>
+
+<p align="center">
+    <img align="center" src="flat_bottomed_concrete_dam_flownets.png" alt="drawing" width="600"/>
+</p>
+<p align="center"> Figure 4: flownets underneath the flat-bottomed concrete gravity dam </p>
