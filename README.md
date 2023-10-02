@@ -54,4 +54,13 @@ Most often, a hydraulic structure, e.g., concrete gravity dams founded on permea
 
 ### Inclined sheet pile
 
+<p align="justify"> 
+<a href="https://doi.org/10.1002/nag.1610180505">Abbas Z. Ijam</a> provided the solution technique to find the flownets underneath a flat-bottomed concrete gravity dam with an inclined sheetpile (as shown in Figure 5(a)). The inclination of the pile with the vertical axis is represented by $\theta$, and therefore, the parameter $gamma$ can be expressed as $\gamma=\dfrac{1}{2}-\dfrac{\pi\theta}{180}$.
+</p>
+
+<p align="center">
+    <img align="center" src="flat_bottomed_concrete_dam_inclined_sheet_pile.png" alt="drawing" width="600"/>
+</p>
+<p align="center"> Figure 5: (a) geometry of a flat-bottomed concrete gravity dam with an inclined sheetpile in $z$-plane, (b) an auxiliary complex variable space $t$-plane, (c) boundary conditions of flownets in $w$-plane </p>
+
 ### Vertical sheet pile
