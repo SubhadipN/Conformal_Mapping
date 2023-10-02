@@ -45,3 +45,13 @@ Consider a flat-bottomed concrete gravity dam with geometrical parameters as $a_
     <img align="center" src="flat_bottomed_concrete_dam_flownets.png" alt="drawing" width="800"/>
 </p>
 <p align="center"> Figure 4: flownets underneath the flat-bottomed concrete gravity dam </p>
+
+## Flat-bottomed concrete gravity dam with sheet pile
+
+<p align="justify"> 
+Most often, a hydraulic structure, e.g., concrete gravity dams founded on permeable soil layer(s), are provided with cut-offs (such as sheet piles) to decrease the seepage forces and the uplift forces resulting from the water flowing underneath the structure. In these cases, the complicated flownets can not be transformed from $w$-plane onto the physical plane directly by using some simple mathematical expressions of comics (i.e., curves developed at the intersection of a straight plane and a cone) as shown in the previous cases. To solve such problems, an additional auxiliary complex variable space $t$-plane can be used. The upper (or the lower) half of the auxiliary plan could be utilized to be mapped onto the $z$ and $w$-planes by the following transformations $$z = f_1(t) \quad \text{and} \quad w = f_2(t) \tag{15}$$ $$\therefore z = f_1(f_2^{-1}(w)) = f(w) \tag{16}$$ Schwarz-Christoffel transformation technique is used to find the conformal mapping (i.e. the functions $f_1(t)$ and $f_2(t)$) of the dam profile in the $z$-plane and the complex seepage potential in the $w$ plane from the lower (or the upper) half space of $t$-plane, and finally the solved analytical flownets in the $w$-plane can be transferred onto the physical plane by the function $z=f(w)$.
+</p>
+
+### Inclined sheet pile
+
+### Vertical sheet pile
