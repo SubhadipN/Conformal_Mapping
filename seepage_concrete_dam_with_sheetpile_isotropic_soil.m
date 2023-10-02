@@ -1,6 +1,8 @@
 %=========================================================================
 % MATLAB script file to draw the flownets of a concrete dam with vertical   
 % sheetpile using the conformal mapping technique
+% For further details, go to the link below:
+% https://github.com/SubhadipN/Conformal_Mapping#seepage-analysis
 %=========================================================================
 % Prepared by SUBHADIP NASKAR, RESEARCH SCHOLAR, IIT GUWAHATI
 %=========================================================================
