@@ -56,6 +56,10 @@ Most often, a hydraulic structure, e.g., concrete gravity dams founded on permea
 
 <p align="justify"> 
 <a href="https://doi.org/10.1002/nag.1610180505">Abbas Z. Ijam</a> provided the solution technique to find the flownets underneath a flat-bottomed concrete gravity dam with an inclined sheetpile (as shown in Figure 5(a)). The inclination of the pile with the vertical axis is represented by $\theta$, and therefore, the parameter $gamma$ can be expressed as $\gamma=\dfrac{1}{2}-\dfrac{\pi\theta}{180}$.
+
+1. Transformation from $t$-plane onto $z$-plane:
+
+2. Transformation from $t$-plane onto $w$-plane:
 </p>
 
 <p align="center">
