@@ -17,7 +17,7 @@ Let us define two spatial coordinates, viz., a velocity potential function $\var
 
 *Example*
 <p align="justify"> 
-Consider an earth dam with a height equal to $20\ \mathrm{m}$, a top width equal to $12\ \mathrm{m}$, a bottom width equal to $32\ \mathrm{m}$, and the filter width equal to $6\ \mathrm{m}$ as shown in Figure 2. The height of the water level is $19\ \mathrm{m}$, and the coefficient of permeability of the homogenous isotropic soil is $3.5\times 10^{-8}\ \mathrm{m/s}$. A simple <a href="https://en.wikipedia.org/wiki/Fourier_series#">MATLAB script</a> to generate the flownets (combinations of flowlines and equipotential lines) for the considered earth bank is provided in this repository, and the output of the code is shown in Figure 2.
+Consider an earth dam with a height equal to $20\ \mathrm{m}$, a top width equal to $12\ \mathrm{m}$, a bottom width equal to $32\ \mathrm{m}$, and the filter width equal to $6\ \mathrm{m}$ as shown in Figure 2. The height of the water level is $19\ \mathrm{m}$, and the coefficient of permeability of the homogenous isotropic soil is $3.5\times 10^{-8}\ \mathrm{m/s}$. A simple <a href="https://github.com/SubhadipN/Conformal_Mapping/blob/main/seepage_earth_dams_isotropic_soil.m">MATLAB script</a> to generate the flownets (combinations of flowlines and equipotential lines) for the considered earth bank is provided in this repository, and the output of the code is shown in Figure 2.
 </p>
 
 <p align="center">
